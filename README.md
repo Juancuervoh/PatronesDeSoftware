@@ -7,5 +7,6 @@
 # Conocimiento
 * Arquitectura y patrones de software
 * Estructura de datos
-* Bases de dator Sql y NoSql
+* Bases de datos Sql y NoSql
+
 
