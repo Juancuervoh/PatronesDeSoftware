@@ -1,8 +1,8 @@
 ### **Presentación**
 
--Juan jose cuervo higuera
--Universidad de san buenaventura
--Ingenieria de sistemas
+*Juan jose cuervo higuera
+*Universidad de san buenaventura
+*Ingenieria de sistemas
 
 # Conocimiento
 Arquitectura y patrones de software
