@@ -26,7 +26,7 @@ En este curso se podra indentificar de forma efectiva que tipo de arquitectura u
 # Entregas 
 ## Corte 1
 * Taller TDD (Codigo U Andes) 
-* Pradctica Arquitectura de software (taller en clase
+* Practica Arquitectura de software (taller en clase)
 
 
 ## Corte 2
