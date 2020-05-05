@@ -21,3 +21,20 @@ En este curso se podra indentificar de forma efectiva que tipo de arquitectura u
 * L – Liskov Substitution Principle (LSP)
 * I – Interface Segregation Principle (ISP)
 * D – Dependency Inversion Principle (DIP) 
+
+
+# Entregas 
+## Corte 1
+* Taller TDD (Codigo U Andes) 
+* Pradctica Arquitectura de software (taller en clase
+
+
+## Corte 2
+* Principios SOLID
+* Taller word patrones de arquitectura de software
+* proyecto (analisis, diseño)
+* mockup del proyecto
+
+## Corte 3
+* patrones GoF creacionales
+
